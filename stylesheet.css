@@ -17,3 +17,11 @@ body {
 	background: blue;
 	margin: auto;
 }
+
+footer {
+	width: 100%;
+	height: 150px;
+	position: absolute;
+	bottom: 0;
+	background: black;
+}
